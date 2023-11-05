@@ -1,6 +1,6 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CryptographicPasswordStorage", "CryptographicPasswordStorage\CryptographicPasswordStorage.csproj", "{D4C4C95C-1367-41D7-95B1-A9A4992267F5}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CryptographyDemo", "CryptographyDemo\CryptographyDemo.csproj", "{D4C4C95C-1367-41D7-95B1-A9A4992267F5}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
